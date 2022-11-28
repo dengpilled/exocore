@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md"
+                "file": "_articles/Configure Exocore for Personal Use.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "f9916ae190a9a11d",
   "lastOpenFiles": [
+    "_articles/Underpinnings of the Exocore.md",
     "ring.md",
     "_daily/2022-11-28.md",
     "index.md",
@@ -155,7 +156,6 @@
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Notes on Remilia's New Internet.md",
     "_daily/2022-05-11.md",
-    "assets/favicon/favicon-16x16.png",
-    "assets/favicon/favicon-32x32.png"
+    "assets/favicon/favicon-16x16.png"
   ]
 }
