@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,15 +147,15 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "ring.md",
+    "_journal/The Exocore Workflow.md",
+    "_journal/Notes on Remilia's New Internet.md",
+    "_journal/Jade post.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_daily/2022-05-11.md",
     "_daily/2022-11-28.md",
     "_daily/Untitled.md",
     "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif"
+    "_daily/2022-10-27.md"
   ]
 }
