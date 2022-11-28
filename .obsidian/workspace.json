@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ring.md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68bdb0177a6320a6",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_daily/2022-11-28.md",
     "index.md",
