@@ -11,6 +11,6 @@ title: Webring
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Angel's Roam](https://eplenas.neocities.org/)       | Sarsaparilla, Seraphic, Sordid, Strawberry,                                 |     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Sonora Sprite] (https://spritecore.netlify.app/)     | Welcome to a new day of Sprite                                              |     |
+| [Sonora Sprite](https://spritecore.netlify.app/)     | Welcome to a new day of Sprite                                              |     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Modesty Preserver] (https:s//disengagea.toikos.net/) | This is my home I'm coming home                                             |     |
