@@ -9,7 +9,7 @@ title: Webring
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Leili Laternapoiss](https://leili.netlify.app/)      | Your entry into the magical Enlightenment of Lanternland!                   |     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Angel's Roam] (https://eplenas.neocities.org/)       | Sarsaparilla, Seraphic, Sordid, Strawberry,                                 |     |
+| [Angel's Roam](https://eplenas.neocities.org/)       | Sarsaparilla, Seraphic, Sordid, Strawberry,                                 |     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Sonora Sprite] (https://spritecore.netlify.app/)     | Welcome to a new day of Sprite                                              |     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
