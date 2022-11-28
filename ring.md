@@ -18,4 +18,4 @@ title: Webring
 | [Sonora Sprite](https://spritecore.netlify.app/)      | Welcome to a new day of Sprite                                              |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Modesty Preserver](https:s//disengagea.toikos.net/)  | This is my home I'm coming home                                             |
-| [Den]                                                      |                                                                             |
+| [Deng Xiaoping 2]                                                      |                                                                             |
