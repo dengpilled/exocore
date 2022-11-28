@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9916ae190a9a11d",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Underpinnings of the Exocore.md",
