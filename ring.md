@@ -5,7 +5,7 @@ title: Webring
 ![[Pasted image 20221128145638.png]]
 
 
-| Power-User                                            | |
+| Power-User                                            | Exo|
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Edith Reisen](http://reisen.netlify.app/)            | Para-academic knowledge repository and power hikikomori optimization manual |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
