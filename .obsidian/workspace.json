@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-11-28.md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Webring",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-11-28.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-11-28.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-11-28.md"
+                "file": "ring.md"
               }
             }
           },
@@ -147,13 +148,13 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_daily/2022-05-11.md",
+    "_daily/2022-11-28.md",
     "ring.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Jade post.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
-    "_daily/2022-05-11.md",
-    "_daily/2022-11-28.md",
     "_daily/Untitled.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md"
