@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Jade post.md",
+                "file": "_journal/Kirby.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Jade post.md",
+                "file": "_journal/Kirby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Jade post.md",
+                "file": "_journal/Kirby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Jade post.md"
+                "file": "_journal/Kirby.md"
               }
             }
           },
@@ -154,7 +154,7 @@
     "assets/favicon/favicon-32x32.png",
     "_journal/The Exocore Workflow.md",
     "_journal/Notes on Remilia's New Internet.md",
-    "_journal/Jade post.md",
+    "_journal/Kirby.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_daily/Untitled.md"
   ]
