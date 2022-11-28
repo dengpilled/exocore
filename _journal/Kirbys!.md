@@ -7,6 +7,6 @@ published: true
 
 # Kirbys!
 
-wow this i
+wow this image is powerfu
 
 ![[Pasted image 20221128135128.png]]
