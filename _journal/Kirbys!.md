@@ -8,3 +8,4 @@ published: true
 # Kirbys!
 
 ![[Pasted image 20221128135128.png]]
+wow this image is powerful!
