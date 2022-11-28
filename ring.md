@@ -3,7 +3,8 @@ layout: ring
 title: Webring
 ---
 
-![[Pasted image 20221128145638.png]]
+
+
 
 
 | [Edith Reisen](http://reisen.netlify.app/)            | Para-academic knowledge repository and power hikikomori optimization manual |     |
@@ -16,4 +17,4 @@ title: Webring
 | ----------------------------------------------------- | --------------------------------------------------------------------------- | --- |
 | [Sonora Sprite](https://spritecore.netlify.app/)      | Welcome to a new day of Sprite                                              |     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- | --- |
-| [Modesty Preserver](https:s//disengagea.toikos.net/)  | This is my home I'm coming home                                             |     |                                                      |                                                                             |    
+| [Modesty Preserver](https:s//disengagea.toikos.net/)  | This is my home I'm coming home                                             |     |
