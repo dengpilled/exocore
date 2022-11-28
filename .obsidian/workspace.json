@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "_journal/Jade post.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "_journal/Jade post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "_journal/Jade post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "_journal/Jade post.md"
               }
             }
           },
@@ -147,9 +147,9 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "ring.md",
     "_daily/2022-05-11.md",
     "_daily/2022-11-28.md",
-    "ring.md",
     "assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon-32x32.png",
     "_journal/The Exocore Workflow.md",
