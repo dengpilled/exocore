@@ -2,7 +2,6 @@
 layout: ring
 title: Webring
 ---
-
 ![[Pasted image 20221128145638.png]]
 
 
