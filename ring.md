@@ -8,6 +8,6 @@ title: Webring
 | [Don's Directory](http://dons.directory/)             | شارع بدون تبخير ساخن                                                        |
 | [Leili Laternapoiss](https://leili.netlify.app/)      | Your entry into the magical Enlightenment of Lanternland!                   |
 | [Angel's Roam] (https://eplenas.neocities.org/)       | Sarsaparilla, Seraphic, Sordid, Strawberry,                                 |
-| [Leili Laternapoiss] (https://leili.netlify.app/)     | Your entry into the magical Enlightenment of Lanternland!                   | 
-| [Sonora Sprite] (https://spritecore.netlify.app/)     | Welcome to a new day of Sprite                                              |     |     |     |     |     |
+| [Leili Laternapoiss] (https://leili.netlify.app/)     | Your entry into the magical Enlightenment of Lanternland!                   |
+| [Sonora Sprite] (https://spritecore.netlify.app/)     | Welcome to a new day of Sprite                                              |     |     |     |     |     
 | [Modesty Preserver] (https:s//disengagea.toikos.net/) | This is my home I'm coming home                                             |     |     |     |     |     |
