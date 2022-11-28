@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_daily/2022-11-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_daily/2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_daily/2022-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-05-11.md"
+                "file": "_daily/2022-11-28.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_daily/2022-05-11.md",
     "_daily/2022-11-28.md",
     "_daily/Untitled.md",
     "_daily/2022-10-29.md",
@@ -155,7 +156,6 @@
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md"
+    "assets/imgs/bg-yotsuba.gif"
   ]
 }
