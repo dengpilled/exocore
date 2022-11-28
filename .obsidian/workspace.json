@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index.md",
+                "query": "ring.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "ring.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "index.md",
     "ring.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Kirbys!.md",
@@ -156,7 +157,6 @@
     "_daily/2022-05-11.md",
     "_daily/2022-11-28.md",
     "assets/favicon/favicon-16x16.png",
-    "assets/favicon/favicon-32x32.png",
-    "_journal/chinese-ginseng-chicken-tonic-soup.md"
+    "assets/favicon/favicon-32x32.png"
   ]
 }
