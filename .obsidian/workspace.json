@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webring",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 217
   },
   "right": {
     "id": "fa5c2b51a2ba60c1",
@@ -146,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68bdb0177a6320a6",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_journal/The Exocore Workflow.md",
     "_journal/Kirbys!.md",
