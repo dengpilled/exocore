@@ -10,4 +10,4 @@ tags:
 
 ## Item #1 Cyclone Arcade Machine
 ![[Pasted image 20221129004123.png]]
-I do
+I don't know why
