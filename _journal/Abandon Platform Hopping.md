@@ -17,7 +17,7 @@ https://www.are.na/image-consultant/hydrostate
 
 ### Info about how they are/aren’t abandoned
 
-[How many offshore rigs ](https://www.quora.com/How-many-abandoned-offshore-oil-rigs-are-there-and-what-will-be-done-about-them?share=1)
+[How many offshore rigs exist](https://www.quora.com/How-many-abandoned-offshore-oil-rigs-are-there-and-what-will-be-done-about-them?share=1)
 
 ## Useful links and info
 
