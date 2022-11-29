@@ -7,7 +7,7 @@ tags:
 
 # Abandoned Platform Hopping
 
-[Are.n](https://www.are.na/image-consultant/hydrostate)
+[Are.na Folder](https://www.are.na/image-consultant/hydrostate)
 
 ### Info on living on a platform
 
