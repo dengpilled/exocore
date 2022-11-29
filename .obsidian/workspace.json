@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Sorcerer (1977).md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Sorcerer (1977).md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Sorcerer (1977).md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Sorcerer (1977).md"
+                "file": "ring.md"
               }
             }
           },
@@ -171,13 +171,13 @@
   },
   "active": "6a41ba67665082ab",
   "lastOpenFiles": [
+    "_articles/Sorcerer (1977).md",
     "_site/images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
     "_site/images/2022-05-13-01-55-36.png",
     "_journal/Abandoned Platform Hopping.md",
     "_journal/Things I Need In My House.md",
     "_journal/NRx Globeheadisms.md",
     "_journal/Kirbys!.md",
-    "_articles/Sorcerer (1977).md",
     "_journal/2022-11 null.md",
     "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
     "library/Against Intellectual Property_2.pdf"
