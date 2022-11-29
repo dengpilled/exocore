@@ -19,4 +19,4 @@ title: Webring
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Modesty Preserver](https:s//disengagea.toikos.net/)  | This is my home I'm coming home                                             |
 | [Deng Xiaoping 2](https://dengpilled.netlify.app/)    | An Online Guide To Becoming An NRx Globehead                                |
-| [Arete](https://arete.host)                           | Currently Broken or Dowm                                                     |
+| [Arete](https://arete.host)                           | Currently Broken or Down                                                    |
