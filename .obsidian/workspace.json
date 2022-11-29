@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Sorcerer (1977).md",
+                "file": "_journal/Abandon Platform Hopping.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Sorcerer (1977).md",
+                "file": "_journal/Abandon Platform Hopping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Sorcerer (1977).md",
+                "file": "_journal/Abandon Platform Hopping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Sorcerer (1977).md"
+                "file": "_journal/Abandon Platform Hopping.md"
               }
             }
           },
@@ -172,11 +172,11 @@
   },
   "active": "bf4080e3e8b3b1f7",
   "lastOpenFiles": [
-    "_journal/Abandon Platform Hopping.md",
+    "_journal/Kirbys!.md",
     "_articles/Sorcerer (1977).md",
+    "_journal/Abandon Platform Hopping.md",
     "_journal/Things I Need In My House.md",
     "_journal/NRx Globeheadisms.md",
-    "_journal/Kirbys!.md",
     "_journal/2022-11 null.md",
     "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
     "library/Against Intellectual Property_2.pdf",
