@@ -13,7 +13,7 @@ https://www.are.na/image-consultant/hydrostate
 
 [How to find a list of Abandoned offshore-rigs](https://www.quora.com/How-can-I-find-a-list-of-abandoned-offshore-oil-rigs-and-run-a-sustainable-living-project?share=1)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c05e8a4-0033-4015-bd34-1d6f7452f5d3/Untitled.png)
+![[Pasted image 20221129002248.png]]
 
 ### Info about how they are/aren’t abandoned
 
