@@ -16,7 +16,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 ![[Pasted image 20221129004521.png]]
 
-In wha
+In what world would 
 
 
 
