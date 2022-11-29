@@ -23,7 +23,7 @@ Power Is A Curious Man
 Kill The Environment, Turn A Profit[^1]
 
 ![[Pasted image 20221129012536.png]]
-No. You Don't
+No. You Don't Get 
 
 ---
 [^1]: Tahoe Keys is a waterfront gated community in El Dorado County, California, USA. Built in the 1960s, the community consists of more than 1,500 homes on a series of canals that connect to Lake Tahoe. Its construction destroyed half of the Upper Truckee Marsh, the primary filter for river water entering the lake, and has since been called the most environmentally damaging intrusion on the lakeshore in Lake Tahoe’s human history.
