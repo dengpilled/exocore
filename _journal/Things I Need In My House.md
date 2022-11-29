@@ -16,3 +16,4 @@ I don't know why. Just be quiet and insert a coin.
 
 ## Floating Orb Of Fresh Spring Water
 ![[Pasted image 20221129012919.png]]
+It would 
