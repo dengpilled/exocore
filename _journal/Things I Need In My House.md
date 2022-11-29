@@ -12,4 +12,4 @@ tags:
 ![[Pasted image 20221129004123.png]]
 I don't know why. Just be quiet and insert a coin.
 
-##
+## Ite
