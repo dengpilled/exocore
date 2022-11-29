@@ -9,5 +9,5 @@ title: Home
 
 |            | [Mirror](https://mirror.xyz/deng2.eth) |
 | --------------------------------------------------- | -------------------------------------- |
-| [Twitter](https://twitter.com/xiaopilled) | [pfp+](pfp-pl.us)                      |
+| [Twitter](https://twitter.com/xiaopilled) |                       |
 |[Are.na](https://www.are.na/image-consultant/index)|                                        |
