@@ -16,7 +16,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 ![[Pasted image 20221129004521.png]]
 
-In what world would you and 3 friends not be able to live inside one of these for 3 weeks just because. Just because, you may have committed financial crimes and gotten caught. Just because you are doing something that you "shouldn't be" or that certain groups or organizations "don't approve of." I've been in my cu
+In what world would you and 3 friends not be able to live inside one of these for 3 weeks just because. Just because, you may have committed financial crimes and gotten caught. Just because you are doing something that you "shouldn't be" or that certain groups or organizations "don't approve of." I've been in my current one
 
 
 
