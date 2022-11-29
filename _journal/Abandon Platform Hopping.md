@@ -31,6 +31,6 @@ https://www.are.na/image-consultant/hydrostate
 
 [Sentinel 2 Imaging tools](https://registry.opendata.aws/sentinel-2/)
 
-### Drilling Maps
 
-[https://www.drillingmaps.com/](https://www.drillingmaps.com/)
+
+[ Drilling Maps](https://www.drillingmaps.com/)
