@@ -21,7 +21,6 @@ https://www.are.na/image-consultant/hydrostate
 
 ## Useful links and info
 
-### Oil & Gas platforms Maps
 
 [Oil and Gas Platforms Map](https://www.saltwater-recon.com/oil-gas-platforms-map/)
 
