@@ -30,9 +30,8 @@ https://www.are.na/image-consultant/hydrostate
 
 [Oil Platforms in the Gulf: How Many and Who Owns Them?](https://www.deepseanews.com/2010/06/oil-platforms-in-the-gulf-how-many-and-who-owns-them/)
 
-### 
 
-[https://dornob.com/4000-abandoned-oil-rigs-as-luxury-hotels/](https://dornob.com/4000-abandoned-oil-rigs-as-luxury-hotels/)
+[Platforms as luxury hotels](https://dornob.com/4000-abandoned-oil-rigs-as-luxury-hotels/)
 
 ### Sentinel 2 Imaging tools
 
