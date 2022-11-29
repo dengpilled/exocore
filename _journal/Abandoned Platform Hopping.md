@@ -20,7 +20,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 [How to find a list of Abandoned offshore-rigs](https://www.quora.com/How-can-I-find-a-list-of-abandoned-offshore-oil-rigs-and-run-a-sustainable-living-project?share=1)
 
-![[Pasted image 20221129002248.png]]
+
 
 ### Info about how they are/aren’t abandoned
 
