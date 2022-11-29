@@ -16,7 +16,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 ![[Pasted image 20221129004521.png]]
 
-In what world would 
+In what world would you and 3
 
 
 
