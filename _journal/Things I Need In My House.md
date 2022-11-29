@@ -17,3 +17,5 @@ I don't know why. Just be quiet and insert a coin.
 ## Floating Orb Of Fresh Spring Water
 ![[Pasted image 20221129012919.png]]
 It would follow me around sometimes and my cat could drink from it freely.
+
+
