@@ -20,4 +20,4 @@ Those At The Top Are So Much Higher
 Power Is A Curious Man
 
 ![[Pasted image 20221129012321.png]]
-Ki
+Kill T
