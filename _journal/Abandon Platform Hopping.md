@@ -28,7 +28,7 @@ https://www.are.na/image-consultant/hydrostate
 [Oil Platforms in Gulf of Mexico w/ Coords](https://www.data.bsee.gov/Platform/Files/3060.pdf)
 
 
-[https://www.deepseanews.com/2010/06/oil-platforms-in-the-gulf-how-many-and-who-owns-them/](https://www.deepseanews.com/2010/06/oil-platforms-in-the-gulf-how-many-and-who-owns-them/)
+[Oil Platforms in the Gulf: How Many and Who Owns Them?](https://www.deepseanews.com/2010/06/oil-platforms-in-the-gulf-how-many-and-who-owns-them/)
 
 ### Platforms as luxury hotels
 
