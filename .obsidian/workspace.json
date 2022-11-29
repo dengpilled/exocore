@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Untitled.md",
+                "file": "_journal/2022-11 Things I Need In My House.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Untitled.md",
+                "file": "_journal/2022-11 Things I Need In My House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Untitled.md",
+                "file": "_journal/2022-11 Things I Need In My House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Untitled.md"
+                "file": "_journal/2022-11 Things I Need In My House.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "bf4080e3e8b3b1f7",
   "lastOpenFiles": [
+    "_journal/NRx Globeheadisms.md",
+    "_journal/Kirbys!.md",
+    "_journal/2022-11 Things I Need In My House.md",
     "_journal/2022-11 Abandon Platform Hopping.md",
     "_articles/Sorcerer (1977).md",
-    "_journal/NRx Globeheadisms.md",
     "_journal/2022-11 null.md",
     "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
     "library/Against Intellectual Property_2.pdf",
     "_journal/The Exocore Workflow.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-05-11.md"
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md"
   ]
 }
