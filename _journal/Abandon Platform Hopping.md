@@ -27,7 +27,7 @@ https://www.are.na/image-consultant/hydrostate
 
 ### List of Oil Platform in Gulf of Mexico w/ Coordinates
 
-[Oil Platfor](https://www.data.bsee.gov/Platform/Files/3060.pdf)
+[Oil Platforms in Guld](https://www.data.bsee.gov/Platform/Files/3060.pdf)
 
 ### ****Oil Platforms in the Gulf: How Many and Who Owns Them?****
 
