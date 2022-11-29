@@ -14,7 +14,7 @@ Patchwork Prototyping
 Which Class Are You?
 
 ![[Pasted image 20221129012154.png]]
-Those At The Top Are So Much Higher
+Those At The Top Are So Much Higher.
 
 ![[Pasted image 20221129012257.png]]
 Power Is A Curious Man.
