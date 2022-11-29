@@ -20,7 +20,7 @@ Those At The Top Are So Much Higher.
 Power Is A Curious Man.
 
 ![[Pasted image 20221129012321.png]]
-Kill The Environment, Turn A Profit[^1]
+Kill The Environment, Turn A Profit.[^1]
 
 ![[Pasted image 20221129012536.png]]
 No. You Don't Get To Do That.
