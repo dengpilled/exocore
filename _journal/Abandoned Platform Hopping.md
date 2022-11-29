@@ -21,7 +21,7 @@ In what world would you and 3 friends not be able to live inside one of these fo
 
 ![[Pasted image 20221129005622.png]]
 
-This one could even accommodate 4 different groups at a time! How quaint!
+This one could even accommodate 4 different groups at a time. How quaint!
 
 
 
