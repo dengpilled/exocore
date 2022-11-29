@@ -8,4 +8,4 @@ title: Home
 
 | [Twitter](https://twitter.com/xiaopilled) | [Mirror](https://mirror.xyz/deng2.eth) |
 | ----------------------------------------- | -------------------------------------- |
-| [A]                                          |                                        |
+| [Are.na]                                          |                                        |
