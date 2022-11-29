@@ -43,4 +43,4 @@ https://www.are.na/image-consultant/hydrostate
 
 ### Drilling Maps
 
-[](https://www.drillingmaps.com/)[https://www.drillingmaps.com/](https://www.drillingmaps.com/)
+[https://www.drillingmaps.com/](https://www.drillingmaps.com/)
