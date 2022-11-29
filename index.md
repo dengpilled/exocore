@@ -10,4 +10,4 @@ title: Home
 | --------------------------------------------------- | -------------------------------------- |
 | --------------------------------------------------- | -------------------------------------- |
 | [Twitter](https://twitter.com/xiaopilled)           | [pfp+](https://pfp-pl.us)                      |
-| [Are.na](https://www.are.na/image-consultant/index) | [Insta](h)                                       |
+| [Are.na](https://www.are.na/image-consultant/index) | [Insta](https://www.instagram.com/dengpill/)                                       |
