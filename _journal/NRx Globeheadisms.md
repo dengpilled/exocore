@@ -21,3 +21,5 @@ Power Is A Curious Man
 
 ![[Pasted image 20221129012321.png]]
 Kill The Environment, Turn A Profit[^1]
+
+
