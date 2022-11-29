@@ -44,4 +44,4 @@ This one could even accommodate 4 different groups at a time. How quaint! Think 
 [ Drilling Maps](https://www.drillingmaps.com/)
 
 
-[^1]: Yes
+[^1]: Yes it's f
