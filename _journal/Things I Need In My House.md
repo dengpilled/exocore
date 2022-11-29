@@ -14,5 +14,5 @@ I don't know why. Just be quiet and insert a coin.
 
 
 
-## Floating Orb Of Water
+## Floating Orb Of Fresh SpringWater
 ![[Pasted image 20221129012919.png]]
