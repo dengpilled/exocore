@@ -18,3 +18,6 @@ Those At The Top Are So Much Higher
 
 ![[Pasted image 20221129012257.png]]
 Power Is A Curious Man
+
+![[Pasted image 20221129012321.png]]
+Ki
