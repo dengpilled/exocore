@@ -21,6 +21,7 @@ In what world would you  not be able to live inside one of these for 3 weeks jus
 This one could even accommodate 4 different groups at a time. How quaint! Think of the possibilities when you see the Earth[^1] as a Videogame Map instead of your neighborhood, workplace, your friend's apartments, your favorite bar, and your hometown.
 
 
+![[Pasted image 20221129004521.png]]
 
 
 
