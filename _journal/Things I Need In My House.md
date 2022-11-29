@@ -15,3 +15,4 @@ I don't know why. Just be quiet and insert a coin.
 
 
 ## Floating Orb Of Water
+![[Pasted image 20221129012919.png]]
