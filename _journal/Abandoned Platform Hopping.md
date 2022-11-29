@@ -19,7 +19,7 @@ In what world would you  not be able to live inside one of these for 3 weeks jus
 
 ![[Pasted image 20221129005622.png]]
 
-This one could even accommodate 4 different groups at a time. How quaint! Think of the 
+This one could even accommodate 4 different groups at a time. How quaint! Think of the possibilitie
 
 
 
