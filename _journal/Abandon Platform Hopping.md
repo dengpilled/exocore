@@ -24,9 +24,7 @@ https://www.are.na/image-consultant/hydrostate
 
 [Oil & Gas platforms Maps](https://www.saltwater-recon.com/oil-gas-platforms-map/)
 
-
 [Oil Platforms in Gulf of Mexico w/ Coords](https://www.data.bsee.gov/Platform/Files/3060.pdf)
-
 
 [Oil Platforms in the Gulf: How Many and Who Owns Them?](https://www.deepseanews.com/2010/06/oil-platforms-in-the-gulf-how-many-and-who-owns-them/)
 
