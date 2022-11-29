@@ -7,7 +7,7 @@ tags:
 
 # Abandoned Platform Hopping
 
-[Are.na Folder](https://www.are.na/image-consultant/hydrostate)
+[Image Folder](https://www.are.na/image-consultant/hydrostate)
 
 ![[Pasted image 20221129004459.png]] 
 
