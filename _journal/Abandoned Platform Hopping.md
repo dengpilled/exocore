@@ -11,7 +11,7 @@ tags:
 
 ![[Pasted image 20221129004459.png]] 
 
-
+You and 
 
 
 ![[Pasted image 20221129004521.png]]
