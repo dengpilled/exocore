@@ -7,4 +7,5 @@ tags:
 ---
 # Sorcerer (1977)
 
-On Nat Gl
+On Nat Glick
+https://www.facebook.com/superskid/videos/how-nat-glick-got-into-the-movie-sorcerer/163632728815735/
