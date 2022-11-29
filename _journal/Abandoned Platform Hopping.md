@@ -14,6 +14,7 @@ Imagine you and the homies just posted up on one of these for a few weeks. Hoppi
 
 
 ![[Pasted image 20221129004521.png]]
+![[Pasted image 20221129010659.png]]
 In what world would you  not be able to live inside one of these for 3 weeks just because. Just because, you may have committed financial crimes and gotten caught. Just because you are doing something that you "shouldn't be" or that certain groups or organizations "don't approve of." I've been in my current one for a month and have only had two close encounters.
 
 
