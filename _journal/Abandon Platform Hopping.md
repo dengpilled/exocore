@@ -5,7 +5,7 @@ date: 2022-11-29
 tags: 
 ---
 
-#  2022-11: Abandon Platform Hopping
+# Abandon Platform Hopping
 
 https://www.are.na/image-consultant/hydrostate
 
