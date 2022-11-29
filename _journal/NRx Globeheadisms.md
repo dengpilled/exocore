@@ -17,4 +17,4 @@ Which Class Are You?
 Those At The Top Are So Much Higher
 
 ![[Pasted image 20221129012257.png]]
-Power Is A 
+Power Is A Curious Ma
