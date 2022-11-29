@@ -23,4 +23,4 @@ It would follow me around sometimes and my cat could drink from it freely.
 ## Countertops, Tables, and All Flat Surfaces as Wireless Charging Stations
 
 ![[Pasted image 20221129013111.png]]
-Powerful, 
+Powerful, right?
