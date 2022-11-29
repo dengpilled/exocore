@@ -26,6 +26,9 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 ## Useful links and info
 
+[How to find a list of Abandoned offshore-rigs](https://www.quora.com/How-can-I-find-a-list-of-abandoned-offshore-oil-rigs-and-run-a-sustainable-living-project?share=1)
+
+
 [Oil & Gas platforms Maps](https://www.saltwater-recon.com/oil-gas-platforms-map/)
 
 [Oil Platforms in Gulf of Mexico w/ Coords](https://www.data.bsee.gov/Platform/Files/3060.pdf)
