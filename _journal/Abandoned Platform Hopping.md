@@ -44,4 +44,4 @@ This one could even accommodate 4 different groups at a time. How quaint! Think 
 [ Drilling Maps](https://www.drillingmaps.com/)
 
 
-[^1]: For longer footnotes, you may want to use multiple paragraphs.
+[^1]: Yes
