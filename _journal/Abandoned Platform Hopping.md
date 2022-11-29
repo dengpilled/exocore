@@ -22,6 +22,8 @@ In what world would you and 3 friends not be able to live inside one of these fo
 
 
 
+
+
 ### Useful links and info
 
 [How to find a list of Abandoned offshore-rigs](https://www.quora.com/How-can-I-find-a-list-of-abandoned-offshore-oil-rigs-and-run-a-sustainable-living-project?share=1)
