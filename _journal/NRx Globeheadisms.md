@@ -8,4 +8,5 @@ tags:
 # NRx Globeheadisms
 
 ![[Pasted image 20221129012108.png]]
-Patchwork Prototyp
+Patchwork Prototyping
+
