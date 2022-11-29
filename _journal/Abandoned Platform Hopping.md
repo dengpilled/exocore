@@ -22,7 +22,7 @@ This one could even accommodate 4 different groups at a time. How quaint! Think 
 
 
 ![[Pasted image 20221129004521.png]]
-**WOOOOOOSSSSHHHHHHH!!!** Can your current house surv?
+**WOOOOOOSSSSHHHHHHH!!!** Can your current house survive a thousan?
 
 
 ##### Useful links and info
