@@ -11,8 +11,12 @@
             "id": "6a41ba67665082ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_journal/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_journal/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_journal/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_journal/Untitled.md"
+              }
             }
           },
           {
@@ -137,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "6a41ba67665082ab",
   "lastOpenFiles": [
+    "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
     "library/Against Intellectual Property_2.pdf",
     "_journal/The Exocore Workflow.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
@@ -147,7 +156,6 @@
     "_daily/2022-11-28.md",
     "_wiki/usufruct.md",
     "_wiki/L-Dopa.md",
-    "index.md",
-    "_articles/Underpinnings of the Exocore.md"
+    "index.md"
   ]
 }
