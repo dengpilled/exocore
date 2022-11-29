@@ -7,7 +7,7 @@ title: Home
 ![[Pasted image 20221128162216.png]]
 
 
-| [Twitter](https://twitter.com/xiaopilled)           | [Mirror](https://mirror.xyz/deng2.eth) |
+|            | [Mirror](https://mirror.xyz/deng2.eth) |
 | --------------------------------------------------- | -------------------------------------- |
-|  | [pfp+](pfp-pl.us)                      |
+| [Twitter](https://twitter.com/xiaopilled)| [pfp+](pfp-pl.us)                      |
 |[Are.na](https://www.are.na/image-consultant/index)|                                        |
