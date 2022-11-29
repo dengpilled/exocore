@@ -28,6 +28,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 [How to find a list of Abandoned offshore-rigs](https://www.quora.com/How-can-I-find-a-list-of-abandoned-offshore-oil-rigs-and-run-a-sustainable-living-project?share=1)
 
+[How many offshore rigs exist](https://www.quora.com/How-many-abandoned-offshore-oil-rigs-are-there-and-what-will-be-done-about-them?share=1)
 
 [Oil & Gas platforms Maps](https://www.saltwater-recon.com/oil-gas-platforms-map/)
 
