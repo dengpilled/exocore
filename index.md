@@ -6,4 +6,4 @@ title: Home
 
 ![[Pasted image 20221128162216.png]]
 
-| [Twitter](https://twit)
+| [Twitter](https://twitter.com)
