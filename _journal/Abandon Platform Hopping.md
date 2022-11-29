@@ -32,8 +32,6 @@ https://www.are.na/image-consultant/hydrostate
 
 [Platforms as luxury hotels](https://dornob.com/4000-abandoned-oil-rigs-as-luxury-hotels/)
 
-
-
 [Sentinel 2 Imaging tools](https://registry.opendata.aws/sentinel-2/)
 
 ### Drilling Maps
