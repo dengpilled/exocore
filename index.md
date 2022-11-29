@@ -6,4 +6,4 @@ title: Home
 
 ![[Pasted image 20221128162216.png]]
 
-| [Twitter](https://twitter.com/xiaopilled) | [Mirror](https://mirror.xyz/deng2.eth) |                                          |                       |
+| [Twitter](https://twitter.com/xiaopilled) | [Mirror](https://mirror.xyz/deng2.eth) |                       |
