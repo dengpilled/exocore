@@ -14,4 +14,4 @@ I don't know why. Just be quiet and insert a coin.
 
 
 
-## Floating Orb Of Wate
+## Floating Orb Of Water
