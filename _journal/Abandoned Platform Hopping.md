@@ -16,7 +16,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 ![[Pasted image 20221129004521.png]]
 
-In what world would you and 3 friends not be able to live inside one of these for 3 weeks for any reason.
+In what world would you and 3 friends not be able to live inside one of these for 3 weeks 
 
 
 
