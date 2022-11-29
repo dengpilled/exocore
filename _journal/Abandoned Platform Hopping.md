@@ -22,7 +22,7 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 ### Info about how they are/aren’t abandoned
 
-[How many offshore rigs exist](https://www.quora.com/How-many-abandoned-offshore-oil-rigs-are-there-and-what-will-be-done-about-them?share=1)
+
 
 ## Useful links and info
 
