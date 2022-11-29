@@ -17,13 +17,13 @@ Which Class Are You?
 Those At The Top Are So Much Higher
 
 ![[Pasted image 20221129012257.png]]
-Power Is A Curious Man
+Power Is A Curious Man.
 
 ![[Pasted image 20221129012321.png]]
 Kill The Environment, Turn A Profit[^1]
 
 ![[Pasted image 20221129012536.png]]
-No. You Don't Get To Do That
+No. You Don't Get To Do That.
 
 ![[Pasted image 20221129012659.png]]
 The Flow Of Capital Didn't Hurt Anybody. Did It?
