@@ -17,7 +17,6 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 ![[Pasted image 20221129004521.png]]
 
 
-[How to find a list of Abandoned offshore-rigs](https://www.quora.com/How-can-I-find-a-list-of-abandoned-offshore-oil-rigs-and-run-a-sustainable-living-project?share=1)
 
 
 
