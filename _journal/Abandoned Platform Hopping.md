@@ -11,7 +11,7 @@ tags:
 
 ![[Pasted image 20221129004459.png]] 
 
-You and the homies just posted up on one of these for a few weeks. Hopping from rig to rig avoid the Coast Fags or whoever thinks you can't be there.
+You and the homies just posted up on one of these for a few weeks. Hopping from rig to rig avoid the Coast Fags or whoever thinks you can't be there. 
 
 
 ![[Pasted image 20221129004521.png]]
