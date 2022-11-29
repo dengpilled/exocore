@@ -10,3 +10,5 @@ tags:
 ![[Pasted image 20221129012108.png]]
 Patchwork Prototyping
 
+![[Pasted image 20221129012131.png]]
+I
