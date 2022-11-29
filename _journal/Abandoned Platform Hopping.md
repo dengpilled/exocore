@@ -9,7 +9,12 @@ tags:
 
 [Are.na Folder](https://www.are.na/image-consultant/hydrostate)
 
-![[Pasted image 20221129004459.png]]  ![[Pasted image 20221129004521.png]]
+![[Pasted image 20221129004459.png]] 
+
+
+
+
+![[Pasted image 20221129004521.png]]
 
 ### Info on living on a platform
 
