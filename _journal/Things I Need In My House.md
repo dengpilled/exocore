@@ -20,4 +20,4 @@ It would follow me around sometimes and my cat could drink from it freely.
 
 
 
-## Countertops, Tables, And A
+## Countertops, Tables, and 
