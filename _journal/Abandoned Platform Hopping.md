@@ -20,8 +20,6 @@ You and the homies just posted up on one of these for a few weeks. Hopping from 
 
 
 
-### Info about how they are/aren’t abandoned
-
 
 
 ## Useful links and info
