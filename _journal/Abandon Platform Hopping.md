@@ -22,7 +22,7 @@ https://www.are.na/image-consultant/hydrostate
 ## Useful links and info
 
 
-[Oil and Gas Platforms Map](https://www.saltwater-recon.com/oil-gas-platforms-map/)
+[Oil & Gas platforms Maps](https://www.saltwater-recon.com/oil-gas-platforms-map/)
 
 ### List of Oil Platform in Gulf of Mexico w/ Coordinates
 
