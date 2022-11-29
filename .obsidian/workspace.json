@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index.md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9916ae190a9a11d",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_articles/Configure Exocore for Personal Use.md",
