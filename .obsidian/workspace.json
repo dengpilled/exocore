@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1dafe580f4c276f8",
+        "id": "07b058a48fe80055",
         "type": "tabs",
         "children": [
           {
-            "id": "f9916ae190a9a11d",
+            "id": "6a41ba67665082ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,13 +141,13 @@
   "lastOpenFiles": [
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_articles/Configure Exocore for Personal Use.md",
+    "_daily/2022-05-11.md",
+    "_daily/2022-11-28.md",
+    "_wiki/usufruct.md",
+    "_wiki/L-Dopa.md",
+    "index.md",
     "_articles/Underpinnings of the Exocore.md",
     "ring.md",
-    "_daily/2022-11-28.md",
-    "index.md",
-    "_journal/The Exocore Workflow.md",
-    "_journal/Kirbys!.md",
-    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Notes on Remilia's New Internet.md"
+    "_journal/The Exocore Workflow.md"
   ]
 }
