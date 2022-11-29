@@ -14,4 +14,4 @@ I don't know why. Just be quiet and insert a coin.
 
 
 
-## W
+## Floating O
