@@ -14,4 +14,4 @@ title: Webring
 | [Sonora Sprite](https://spritecore.netlify.app/)      | Welcome to a new day of Sprite                                              |
 | [Modesty Preserver](https:s//disengagea.toikos.net/)  | This is my home I'm coming home                                             |
 | [Deng Xiaoping 2](https://dengpilled.netlify.app/)    | An Online Guide To Becoming An NRx Globehead                                |
-| [Arete](http://primecult.one)                           | Currently Broken or Down                                                    |
+| [Arete](http://primecult.one)                         | Currently Broken or Down                                                    |
