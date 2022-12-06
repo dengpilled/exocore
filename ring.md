@@ -5,7 +5,7 @@ title: Webring
 ![[Pasted image 20221128145638.png]]
 
 
-| Power-User                                           | Exocore Description                                                         
+| Power-User                                           | Exocore Description                                                         |
 | ---------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Edith Reisen](http://reisen.netlify.app/)           | Para-academic knowledge repository and power hikikomori optimization manual |
 | [Don's Directory](http://dons.directory/)            | شارع بدون تبخير ساخن                                                        |
