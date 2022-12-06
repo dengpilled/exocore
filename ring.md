@@ -13,6 +13,5 @@ title: Webring
 | [Angel's Roam](https://eplenas.neocities.org/)       | Sarsaparilla, Seraphic, Sordid, Strawberry,                                 |
 | [Sonora Sprite](https://spritecore.netlify.app/)     | Welcome to a new day of Sprite                                              |
 | [Modesty Preserver](https:s//disengagea.toikos.net/) | This is my home I'm coming home                                             |
-| [Deng Xiaoping 2](https://dengpilled.netlify.app/)   | An Online Guide To Becoming An NRx Globehead                                |
 | [Aretê](https://primecult.one)                       | CyberSovereignty, Lost History, And More                                    |
 | [Chloé](https://waifmaterial.com/)                   | i will remember this moment                                                 |                                                     |                                                                             |
