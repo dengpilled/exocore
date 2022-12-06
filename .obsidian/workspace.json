@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-12-06.md",
+                "file": "_articles/Sorcerer (1977).md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-12-06.md",
+                "file": "_articles/Sorcerer (1977).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-12-06.md",
+                "file": "_articles/Sorcerer (1977).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-12-06.md"
+                "file": "_articles/Sorcerer (1977).md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "6a41ba67665082ab",
   "lastOpenFiles": [
+    "_daily/2022-12-06.md",
     "_daily/2022-12-05.md",
     "ring.md",
     "_articles/Sorcerer (1977).md",
@@ -179,7 +180,6 @@
     "_journal/Abandoned Platform Hopping.md",
     "_journal/Things I Need In My House.md",
     "_journal/NRx Globeheadisms.md",
-    "_journal/Kirbys!.md",
-    "_journal/2022-11 null.md"
+    "_journal/Kirbys!.md"
   ]
 }
