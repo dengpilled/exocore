@@ -15,4 +15,4 @@ title: Webring
 | [Modesty Preserver](https:s//disengagea.toikos.net/) | This is my home I'm coming home                                             |     |     |
 | [Aretê](https://primecult.one)                       | CyberSovereignty, Lost History, And More                                    |     |     |
 | [Chloé](https://waifmaterial.com/)                   | i will remember this moment                                                 |     |     |
-| [Iso Yantere](https://neotokio.net/)                                                     |                                                                             |     |     |
+| [Iso Yantere](https://neotokio.net/)                                |                                                                             |     |     |
