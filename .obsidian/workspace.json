@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Internet Tools.md",
+                "file": "_articles/Useful Internet Tools.md",
                 "mode": "source",
                 "source": true
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "useful inter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Internet Tools.md",
+                "file": "_articles/Useful Internet Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Internet Tools.md",
+                "file": "_articles/Useful Internet Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Internet Tools.md"
+                "file": "_articles/Useful Internet Tools.md"
               }
             }
           },
@@ -169,7 +169,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a41ba67665082ab",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_daily/Useful Internet Tools.md",
     "_daily/2022-12-08.md",
