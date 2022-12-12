@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_site/readme.md",
+                "file": "_daily/2022-12-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/readme.md",
+                "file": "_daily/2022-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/readme.md",
+                "file": "_daily/2022-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/readme.md"
+                "file": "_daily/2022-12-11.md"
               }
             }
           },
@@ -170,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf91471a0053b065",
+  "active": "6a41ba67665082ab",
   "lastOpenFiles": [
+    "_site/readme.md",
     "_articles/Useful Internet Tools.md",
     "_daily/Useful Internet Tools.md",
     "_daily/2022-12-08.md",
@@ -180,7 +181,6 @@
     "_daily/2022-12-05.md",
     "_daily/2022-12-06.md",
     "_daily/2022-11-28.md",
-    "_site/images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
-    "_site/images/2022-05-13-01-55-36.png"
+    "_site/images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg"
   ]
 }
